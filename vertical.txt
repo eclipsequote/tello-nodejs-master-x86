@@ -1,0 +1,8 @@
+command
+battery?
+takeoff
+down 60
+cw 360
+up 70
+ccw 360
+land
